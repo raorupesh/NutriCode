@@ -6,6 +6,9 @@
 
 This contains everything you need to run your app locally.
 
+## Credits
+This code which has AI video rendered has been developed with Google AI studio.
+
 ## Run Locally
 
 **Prerequisites:**  Node.js
