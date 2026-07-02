@@ -1,0 +1,6 @@
+{
+  "name": "NutriCode",
+  "description": "An interactive cinematic sci-fi experience in the style of a Netflix Black Mirror episode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
